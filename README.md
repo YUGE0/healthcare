@@ -1,1 +1,2 @@
 Good day!
+I would like to start by apologizing for building this application in TypeScript (TSX and TS) instead of JavaScript (JSX and JS). I read the documentation and understood that I was supposed to create it in JavaScript. However, since I am more accustomed to working with TypeScript, I selected it and continued with my work. I only realized my mistake after submitting the task. I understand if my submission may not qualify, but I would appreciate your consideration of my work. Thank you!
